@@ -1,0 +1,2 @@
+# MeteorInsight
+MeteorInsight is an advanced server application developed in Java with Spring Boot, seamlessly integrating the expansive Weather API from RapidAPI. This innovative project provides a robust framework for retrieving detailed weather forecasts and hourly insights for any city. Authentication features stringent header-based mechanisms with randomized client ID and secret pairings, ensuring secure and reliable data access. 
